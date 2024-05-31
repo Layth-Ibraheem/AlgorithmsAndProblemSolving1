@@ -5,11 +5,13 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem1", "Problem1\Problem1.csproj", "{40B6ECFD-1F03-4E51-BDE6-1A1FEF0C6B09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem2", "Problem2\Problem2.csproj", "{38C58C43-FFEF-4D42-9372-81248772C922}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem2", "Problem2\Problem2.csproj", "{38C58C43-FFEF-4D42-9372-81248772C922}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3", "Problem3\Problem3.csproj", "{81569C58-ADF2-49DD-9522-D90ABF6DEE52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem3", "Problem3\Problem3.csproj", "{81569C58-ADF2-49DD-9522-D90ABF6DEE52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem4", "Problem4\Problem4.csproj", "{08A1815A-58D3-42D5-8FA7-B9B1AFA633E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem4", "Problem4\Problem4.csproj", "{08A1815A-58D3-42D5-8FA7-B9B1AFA633E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem5", "Problem5\Problem5.csproj", "{334B32CB-C814-4A28-ACBA-5839CA026E7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{08A1815A-58D3-42D5-8FA7-B9B1AFA633E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08A1815A-58D3-42D5-8FA7-B9B1AFA633E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08A1815A-58D3-42D5-8FA7-B9B1AFA633E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{334B32CB-C814-4A28-ACBA-5839CA026E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334B32CB-C814-4A28-ACBA-5839CA026E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334B32CB-C814-4A28-ACBA-5839CA026E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334B32CB-C814-4A28-ACBA-5839CA026E7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
