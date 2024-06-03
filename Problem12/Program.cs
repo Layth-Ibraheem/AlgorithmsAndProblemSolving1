@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+        // Write a program to get the max number between tow numbers that the user entered
+
         static int ReadNumber(string message)
         {
             Console.WriteLine(message);
@@ -15,7 +17,7 @@
         static void Main(string[] args)
         {
             int number1 = ReadNumber("Enter the first number: ");
-            int number2 = ReadNumber("Enter the first number: ");
+            int number2 = ReadNumber("Enter the second number: ");
             Console.WriteLine($"The max number between {number1} and {number2} is: {GetMaxNumber(number1, number2)}");
         }
     }
