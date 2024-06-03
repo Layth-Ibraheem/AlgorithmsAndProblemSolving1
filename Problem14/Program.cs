@@ -25,7 +25,7 @@
         static void Main(string[] args)
         {
             int number1 = ReadNumber("Please enter the first number: ");
-            int number2 = ReadNumber("Please enter the first number: ");
+            int number2 = ReadNumber("Please enter the second number: ");
 
             Console.WriteLine("Befor Swap");
             Console.WriteLine("Number1: " + number1);
