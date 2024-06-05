@@ -15,6 +15,8 @@
             if (N == 1)
                 return 1;
             return N * CalculateFactorial(N - 1);
+            // Or we can type 
+            // return N == 1? 1 : N * CalculateFactorial(N - 1);
         }
         static void Main(string[] args)
         {
